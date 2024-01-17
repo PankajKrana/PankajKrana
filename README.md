@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Pankaj Kumar Rana</h1>
+<h1 align="center">Hi 👋, I'm Pankaj </h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **DSA, AI & ML**
