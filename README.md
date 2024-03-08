@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA, AI & ML**
 
-- 📫 How to reach me **pankajkumar_r@icloud.com**
+- 📫 How to reach me **pankajkrana13@gmail.com**
 
 ##
 
