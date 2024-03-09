@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/pankajkrana" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="filter: invert(100%);" />
   </a>
-  <a href="https://twitter.com/i/flow/login?redirect_after_login=%2FPANKAJKRANA13" target="_blank">
+  <a href="https://x.com/PANKAJKRANA13?t=kcXSkUpnYn6vYDzE-vAYDw&s=09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="filter: invert(100%);"  />
   </a>
   <a href="https://discordapp.com/users/791273354706944038" target="_blank">
