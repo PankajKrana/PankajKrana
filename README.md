@@ -28,7 +28,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
+<p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+</div></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajkrana&show_icons=true&locale=en&layout=compact" alt="pankajkrana" /></p>
 
