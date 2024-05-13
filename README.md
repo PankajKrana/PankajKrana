@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pankajkrana13" target="blank"><img src="https://img.shields.io/twitter/follow/pankajkrana13?logo=twitter&style=for-the-badge" alt="pankajkrana13" /></a> </p>
 
-
-- 🌱 I’m currently learning **DSA, AI & ML**
+- 🌱 I’m currently learning **DSA, iOS Development**
 
 - 📫 How to reach me **pankajkrana13@gmail.com**
 
