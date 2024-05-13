@@ -40,8 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajkrana&show_icons=true&locale=en&layout=compact" alt="pankajkrana" /></p>
-
 ###
 
 <br clear="both">
