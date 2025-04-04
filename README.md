@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj 👨🏻‍💻 </h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/pankajkrana13" target="blank"><img src="https://img.shields.io/twitter/follow/pankajkrana13?logo=twitter&style=for-the-badge" alt="pankajkrana13" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, iOS Development**
 
@@ -11,12 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<div align="left">
-  <a href="https://www.linkedin.com/in/pankajkrana" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/PANKAJKRANA13?t=kcXSkUpnYn6vYDzE-vAYDw&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/791273354706944038" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
