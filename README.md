@@ -43,5 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
----
-
+##
+<p> 
+<img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=PankajKrana&theme=blueberry_duo">
+</p>
