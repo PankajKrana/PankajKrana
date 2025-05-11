@@ -1,40 +1,47 @@
-<h1 align="center">Hi 👋, I'm Pankaj 👨🏻‍💻 </h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hey 👋 I'm Pankaj Kr Rana</h1>
 
-
-- 🌱 I’m currently learning **DSA, iOS Development**
-
-- 📫 How to reach me **pankajkrana13@gmail.com**
-
-##
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  </a>
+<p align="center">
   <a href="https://discordapp.com/users/791273354706944038" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pankajkrana13@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=E14C44&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3eaa2b36-157c-4e30-9072-55d4b9181554" alt="animated gif" />
+</p>
+
+<p align="center">
+📱 iOS Developer <br>
+💻 Passionate about building useful apps and contributing to open-source
+</p>
+
+---
+
+## 🚀 About Me
+
+- ✨ Currently learning **Swift, SwiftUI & DSA**
+- 🎯 Goal: Build high-performance, well-designed mobile apps
+- 🧩 Contributed to [Roboflow open-source projects](https://github.com/roboflow/supervision)
+
+---
+
+## 🛠 I Build Apps With
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-<p>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"  alt="mysql" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"  alt="postman" />
-  <img width="12" />
-</div></p>
-
+---
 
