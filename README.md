@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3eaa2b36-157c-4e30-9072-55d4b9181554" alt="animated gif" />
+  <img src="https://github.com/user-attachments/assets/3eaa2b36-157c-4e30-9072-55d4b9181554" alt="animated gif" width="400"/>
 </p>
 
 <p align="center">
@@ -29,17 +29,25 @@
 
 ---
 
+## My App
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7f01465-e478-493e-ae6f-26747b43c5fd" alt="My App Screenshot" width="800"/>
+</p>
+
+---
+
 ## 🛠 I Build Apps With
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo" />
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
