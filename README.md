@@ -29,13 +29,6 @@
 
 ---
 
-## My App
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a7f01465-e478-493e-ae6f-26747b43c5fd" alt="My App Screenshot" width="800"/>
-</p>
-
----
 
 ## 🛠 I Build Apps With
 
