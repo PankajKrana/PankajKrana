@@ -94,7 +94,11 @@ iOS Developer who loves building apps that are fast, reliable, and enjoyable to 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=PankajKrana&theme=dark&radius=10" alt="PankajKrana's Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PankajKrana&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=f9e2af&area=true&area_color=313244&title_color=cdd6f4&hide_border=true&radius=16"
+    width="100%"
+    alt="Activity Graph"
+  />
 </p>
 
 <!-- End -->
